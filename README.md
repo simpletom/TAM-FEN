@@ -1,11 +1,11 @@
 # TAM-FEN
 FEN Notation for "The Amateurs Mind" by Jeremy Silman (2nd Edition)
 
-#1 Imbalances
+# 1 Imbalances
 1: 
 rn2k2r/pppbqpb1/4p1pp/4P3/8/2NB1N2/PPP2PPP/R4RK1 w - - 0 1
 
-#2 The Battle between Bishops and Knights
+# 2 The Battle between Bishops and Knights
 
 2: 
 8/8/8/6p1/3n1pP1/2pPpP2/k1P1P3/3K1B2 w - - 0 1
